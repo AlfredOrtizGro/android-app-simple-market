@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="carreras">
+        <item>Selecciona una carrera</item>
+        <item>Software</item>
+        <item>Plasticos</item>
+        <item>Producción Industrial</item>
+        <item>Seguridad Ciudadana</item>
+    </string-array>
+</resources>

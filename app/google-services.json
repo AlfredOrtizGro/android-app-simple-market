@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "61667853521",
+    "firebase_url": "https://tiendapp-3cc29.firebaseio.com",
+    "project_id": "tiendapp-3cc29",
+    "storage_bucket": "tiendapp-3cc29.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:61667853521:android:37f530498ed637a64871f0",
+        "android_client_info": {
+          "package_name": "com.team9.tiendapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "61667853521-1vugaupr25ih6uh1lnosvr0994jdmiqn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDLc76Pd3cB8sLlWkSoeieDoN_CsMhdwc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "61667853521-1vugaupr25ih6uh1lnosvr0994jdmiqn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

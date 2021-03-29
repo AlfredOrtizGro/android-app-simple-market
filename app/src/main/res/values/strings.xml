@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">tiendapp</string>
+
+    <!--Cadenas y botones de login-->
+    <string name="s_iniciarsesion">Iniciar Sesión</string>
+    <string name="s_correo">Correo electronico</string>
+    <string name="s_contrasenia">Contraseña</string>
+    <string name="s_olvidocontrasenia">¿Olvidaste tu contraseña?</string>
+    <string name="s_acerca">Acerca de TiendApp</string>
+    <string name="btn_iniciar">Iniciar</string>
+    <string name="btn_registro">Registrarse</string>
+
+    <!--Registro-->
+    <string name="s_registro">Registro</string>
+    <string name="s_usuario">Usuario</string>
+    <string name="s_contrasenia_2">Cofirma tu contraseña</string>
+    <string name="s_carrera">Carrera</string>
+
+    <!--Acerca de-->
+    <string name="s_acerca_desc">   TiendApp es una aplicación movil
+                                    que te permite conectar con
+                                    clientes locales. Puedes promocionar
+                                    tus productos y ellos realizar pedidos</string>
+
+    <!--Recuperar contraseña-->
+    <string name="s_recuperarcontrasenia">Recupera tu contraseña</string>
+    <string name="btn_recuperar">Recuperar</string>
+</resources>
